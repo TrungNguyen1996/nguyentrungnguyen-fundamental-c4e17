@@ -1,0 +1,31 @@
+﻿Part B:
+2/ 
+- Boolean là một kiểu dữ liệuChỉ có đúng hoặc sai
+- Boolean so sánh các toán hạng trong phéo tính
+ Các ví dụ cho kiểu dữ liệu boolean
+
+x == y ĐÚng nếu x bằng với y
+x != y x không bằng y
+x > y x lớn hơn y
+x < y x ít hơn y
+x >= y x lớn hơn hoặc bằng y
+x <= y x nhỏ hơn hoặc băng y
+
+3/ Chụp Ảnh
+4/
+Điều kiện lông nhau là: câu lệnh điều kiện trong bài toán thực hiện phép so sánh để in ra kết quả, với các rẽ nhánh cho các trường hợp  
+1/ nếu sai thì rẽ nhánh kiểm tra  đến khi nào đúng thì dừng lại
+2/ Nếu kết quả cho trường hợp đúng thì dừng lại và in kết quả luôn
+
+Ví dụ điều kiện lồng nhau là:
+
+if BMI < 16:
+    print("Thiếu cân nặng")
+elif BMI = 16 < 18,5:
+    print("Thiếu cân")
+elif BMI = 18,5 < 25:
+    print("Bình thường")
+elif BMI = 25 <30:
+    print("Thật cân đối")
+else >30:
+    print("Béo phì")
