@@ -1,0 +1,1 @@
+2.2. At the end of each month, you have to choose one and only one sheep to shear and thus you want to choose the biggest one to maximize your profit. Write a program to search for the biggest sheep in your list:
