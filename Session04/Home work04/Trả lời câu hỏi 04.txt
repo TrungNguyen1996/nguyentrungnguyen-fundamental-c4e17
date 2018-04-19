@@ -1,0 +1,13 @@
+Read Chapter 8, section 8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 8.7
+
+http://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/thinkcspy3.pdf
+
+Then answer the following question:
+
+How do we convert  a string to uppercase or lowercase?
+
+How do we get length of a string?
+
+How do we print a string, one character per line?
+
+How do we compare two strings?
